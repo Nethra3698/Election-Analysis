@@ -12,7 +12,7 @@ The following list of tasks were to be accomplished by the code:
 5. Finding the winner of the election based on popular vote
 
 ## Resources
-The code used Python 3.7.6 and Visual studio code 1.45.1 as the environment. The data source used for this project is saved under the folder Resources in the name of election_results.csv
+The code used Python 3.7.6 and Visual studio code 1.45.1 as the environment. The data source used for this project is saved under the folder 'Resources' in the name of 'election_results.csv'
 
 ## Summary of results
 The analysis of the election shows that:
